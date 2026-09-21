@@ -42,7 +42,46 @@ A patriotic theme based on the American flag.</br >
 ## Android Lime (yuinagreen.yaml)
 A theme based on Yuina's color scheme<br />
 <br />
-<img width="1919" height="983" alt="Screenshot 2026-09-16 171330" src="https://github.com/user-attachments/assets/fcf781d6-57cf-4a97-9ff2-663c6b65e3e1" />
+<img width="1919" height="983" alt="Screenshot 2026-09-16 171330" src="https://github.com/user-attachments/assets/fcf781d6-57cf-4a97-9ff2-663c6b65e3e1" /><br />
+<br />
+## Mad Dog (maddog.yaml)
+A theme based on Majima's signature snakeskin jacket.<br />
+<br />
+<img width="1911" height="991" alt="MadDog" src="https://github.com/user-attachments/assets/5d4e62ed-a281-4f8a-b4b0-d27adb752836" /><br />
+<br />
+## Red Devil (reddevil.yaml)
+A theme based on Nishtiani's devilish red and pink color scheme.  Kind of an eyesore, huh?  Render by YareYareDong.<br />
+<br />
+<img width="1925" height="1002" alt="RedDevil" src="https://github.com/user-attachments/assets/2ec2d632-e6c4-4ad5-8d6c-4ffce7117a0e" /><br />
+<br />
+## Dragon of Dojima (dragonofdojima.yaml)
+A theme based on Kiryu's primary outfit.<br />
+<br />
+<img width="1919" height="994" alt="DragonofDojima" src="https://github.com/user-attachments/assets/f0a27a61-42eb-414a-92ae-2d909801ae31" /><br />
+<br />
+## Commando (saejima.yaml)
+A theme based on Saejima's camo outfit.<br />
+<br />
+<img width="1923" height="1007" alt="Saejima" src="https://github.com/user-attachments/assets/2941b179-9584-4656-a4a3-9fc4a39db430" /><br />
+<br />
+## Toothpaste and Orange Juice (lordfoogthe2st.yaml)
+A theme based on Nishitani 3's outfit from Gaiden.<br />
+<br />
+<img width="1909" height="1004" alt="LordFoogThe2st" src="https://github.com/user-attachments/assets/3692862c-3137-4491-862c-ab32aa50ff72" /><br />
+<br />
+## The Lion (thelion.yaml)
+A theme based on Shishido's jacket pattern.<br />
+<br />
+<img width="1918" height="996" alt="TheLion" src="https://github.com/user-attachments/assets/c2d214ac-a9e4-4426-a47e-8ab6ea14d801" /><br />
+<br />
+## Akagi (akagi.yaml)
+A theme based on 19 year old Akagi's main outfit as it appears in *Akagi: Yami ni Oritatta Tensai.*  Render from Riichi City.<br />
+<br />
+<img width="1919" height="984" alt="Akagi" src="https://github.com/user-attachments/assets/e5b589f1-1055-4852-84f5-7bb9d82997cf" /><br />
+## Kakihara (kakihara.yaml)
+A theme based on Masao Kakihara from the manga Ichi The Killer by Hideo Yamamoto.<br />
+<br />
+<img width="1918" height="1012" alt="Kakihara" src="https://github.com/user-attachments/assets/b775be53-3384-44b8-8a4c-82b9e64e313e" />
 
 # Other Theme Collections
 Below are other repositories that contain custom color themes.  Feel free to reach out if you'd like to have your themes listed here.<br />
